@@ -1,0 +1,12 @@
+<footer id="footer" class="primary-footer">
+<div class="container">
+<div class="col-sm-6 footer-brand"><p>© 2026. Powerd by Vegamovies.</p></div>
+<div class="col-sm-6 text-right"><nav class="footer-navigation" aria-label="Footer Menu"><ul id="menu-footer-navigation" class="list-inline"><li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="https://vagam4u.com.in/about-us/">About</a></li>
+<li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-31"><a rel="privacy-policy" href="https://vagam4u.com.in/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="https://vagam4u.com.in/contact-us/">Contact</a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="https://vagam4u.com.in/disclaimer/">Disclaimer</a></li>
+<li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35"><a href="https://vagam4u.com.in/dmca/">DMCA</a></li>
+</ul></nav></div>
+<div class="clearfix"></div>
+</div>
+</footer>
