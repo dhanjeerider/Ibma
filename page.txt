@@ -1,0 +1,111 @@
+<main id="main-content" class="container content-wrapper">
+<div class="row">
+<article id="post-25" class="left-wrapper col-md-8 post-25 page type-page status-publish hentry">
+
+<div class="page-content-wrapper">
+<h1 class="entry-title page-title">About Us</h1>
+
+<div class="entry-content page-body">
+<p>Welcome to <strong>Vegamovies</strong> — your one-stop destination for the latest Bollywood, Hollywood, South Hindi, Dual Audio, and Web Series downloads. We are dedicated to providing our visitors with high-quality movie and series content completely free of cost.</p>
+
+<h2>Who We Are</h2>
+<p>Vegamovies is a community-driven platform that curates and indexes movie download links from across the web. Our team works around the clock to bring you fresh content as soon as it becomes available, covering all genres and languages.</p>
+
+<h2>What We Offer</h2>
+<ul>
+<li>Latest Bollywood and Hollywood movies in HD quality</li>
+<li>South Indian movies with Hindi dubbing</li>
+<li>Dual Audio and Multi Audio releases</li>
+<li>Web Series from all major OTT platforms</li>
+<li>18+ Adult content section (age-restricted)</li>
+<li>Fast and direct download links</li>
+</ul>
+
+<h2>Our Mission</h2>
+<p>Our mission is simple — to make quality entertainment accessible to everyone. We believe that great movies and shows should be enjoyed without barriers, which is why we strive to keep our links fresh, fast, and free.</p>
+
+<h2>Disclaimer</h2>
+<p>All content hosted or linked on this website is provided by third-party hosting services. Vegamovies does not upload, host, or control any media files. For any legal concerns, please refer to our <a href="/dmca/">DMCA page</a>.</p>
+</div>
+</div>
+
+</article>
+
+<aside class="primary-sidebar col-md-4">
+<h2 class="widget-title">Recent Updates</h2>
+<div class="widget-body widget-recent thumbnail-wrapper">
+<div class="thumb col-md-4 col-sm-4 col-xs-6"><article class="post-item post-879 post type-post status-publish format-standard hentry category-bollywood">
+<a href="https://vagam4u.com.in/mission-c1000-2026-hindi-org-hq-hdtc/" title="Mission C1000 (2026) Hindi ORG HQ HDTC">
+<div class="figure">
+<div class="post-thumbnail lazy-wrapper loaded">
+<div class="lazy-loader"></div>
+<img class="img-fluid" src="https://m.media-amazon.com/images/M/MV5BNzBiYzM3ZDktZGY3YS00ZTM0LWJhMmItNDVjOTIzODk3MGZkXkEyXkFqcGc@._V1_SX300.jpg" alt="Mission C1000 (2026) Hindi ORG HQ HDTC" width="300" height="450" decoding="async" loading="eager">
+</div>
+<div class="post-title"><h3>Mission C1000 (2026) Hindi ORG HQ HDTC</h3></div>
+</div>
+</a>
+</article></div>
+<div class="thumb col-md-4 col-sm-4 col-xs-6"><article class="post-item post-876 post type-post status-publish format-standard hentry category-hollywood category-multi-audio">
+<a href="https://vagam4u.com.in/war-machine-2026-hindi-multi-audio-web-dl/" title="War Machine (2026) Hindi Multi Audio WEB-DL">
+<div class="figure">
+<div class="post-thumbnail lazy-wrapper loaded">
+<div class="lazy-loader"></div>
+<img class="img-fluid" src="https://m.media-amazon.com/images/M/MV5BMmM1ZTc5ZTYtOTM2My00MjBmLWE5NzktYzkyYzdlYWE3ZDAzXkEyXkFqcGc@._V1_SX300.jpg" alt="War Machine (2026) Hindi Multi Audio WEB-DL" width="300" height="450" decoding="async" loading="eager">
+</div>
+<div class="post-title"><h3>War Machine (2026) Hindi Multi Audio WEB-DL</h3></div>
+</div>
+</a>
+</article></div>
+<div class="thumb col-md-4 col-sm-4 col-xs-6"><article class="post-item post-873 post type-post status-publish format-standard hentry category-multi-audio category-south-hindi category-telugu-tamil">
+<a href="https://vagam4u.com.in/with-love-2026-hindi-multi-audio-web-dl/" title="With Love (2026) Hindi Multi Audio WEB-DL">
+<div class="figure">
+<div class="post-thumbnail lazy-wrapper loaded">
+<div class="lazy-loader"></div>
+<img class="img-fluid" src="https://m.media-amazon.com/images/M/MV5BYmI0ZmJhZDAtYjNjZC00OGFjLWJjMTktMWEzMzRkODY2ZTg5XkEyXkFqcGc@._V1_SX300.jpg" alt="With Love (2026) Hindi Multi Audio WEB-DL" width="300" height="450" decoding="async" loading="eager">
+</div>
+<div class="post-title"><h3>With Love (2026) Hindi Multi Audio WEB-DL</h3></div>
+</div>
+</a>
+</article></div>
+<div class="thumb col-md-4 col-sm-4 col-xs-6"><article class="post-item post-870 post type-post status-publish format-standard hentry category-hollywood">
+<a href="https://vagam4u.com.in/scream-7-2026-telesync-english-hq-hdtc/" title="Scream 7 (2026) TELESYNC English HQ HDTC">
+<div class="figure">
+<div class="post-thumbnail lazy-wrapper loaded">
+<div class="lazy-loader"></div>
+<img class="img-fluid" src="https://m.media-amazon.com/images/M/MV5BMzk2YzRjYmItNTA5Mi00ODczLTljYzUtOWE1ZDFkODhlZWJlXkEyXkFqcGc@._V1_SX300.jpg" alt="Scream 7 (2026) TELESYNC English HQ HDTC" width="300" height="450" decoding="async" loading="eager">
+</div>
+<div class="post-title"><h3>Scream 7 (2026) TELESYNC English HQ HDTC</h3></div>
+</div>
+</a>
+</article></div>
+<div class="thumb col-md-4 col-sm-4 col-xs-6"><article class="post-item post-866 post type-post status-publish format-standard hentry category-dual-audio category-hollywood">
+<a href="https://vagam4u.com.in/the-dogs-2025-hindi-org-dual-audio-hdrip/" title="The Dogs (2025) Hindi ORG Dual Audio HDRip">
+<div class="figure">
+<div class="post-thumbnail lazy-wrapper loaded">
+<div class="lazy-loader"></div>
+<img class="img-fluid" src="https://m.media-amazon.com/images/M/MV5BMTBjMTk2MzYtYTg1YS00MzYyLWEyNjAtNzUwMmRjNTY5YzEwXkEyXkFqcGc@._V1_SX300.jpg" alt="The Dogs (2025) Hindi ORG Dual Audio HDRip" width="300" height="450" decoding="async" loading="eager">
+</div>
+<div class="post-title"><h3>The Dogs (2025) Hindi ORG Dual Audio HDRip</h3></div>
+</div>
+</a>
+</article></div>
+<div class="thumb col-md-4 col-sm-4 col-xs-6"><article class="post-item post-862 post type-post status-publish format-standard hentry category-bollywood">
+<a href="https://vagam4u.com.in/ikk-kudi-2025-punjabi-org-hdrip/" title="Ikk Kudi (2025) Punjabi ORG HDRip">
+<div class="figure">
+<div class="post-thumbnail lazy-wrapper loaded">
+<div class="lazy-loader"></div>
+<img class="img-fluid" src="https://m.media-amazon.com/images/M/MV5BMTVjYWVmZTMtYjBlYy00YmU2LWI3OTgtOGUwZWU0YTIzNmEyXkEyXkFqcGc@._V1_QL75_UY562_CR37,0,380,562_.jpg" alt="Ikk Kudi (2025) Punjabi ORG HDRip" width="300" height="450" decoding="async" loading="eager">
+</div>
+<div class="post-title"><h3>Ikk Kudi (2025) Punjabi ORG HDRip</h3></div>
+</div>
+</a>
+</article></div>
+<div class="clearfix"></div>
+</div></aside>
+</div>
+<section id="disclaimer" class="home-wrapper">
+<div class="home-post">
+<p><strong>Disclaimer:</strong> All content is hosted on third-party servers. We do not upload or control any media. Any legal issues should be addressed to the respective hosting providers. All image credit: IMDb.com.</p>
+</div>
+</section>
+</main>
