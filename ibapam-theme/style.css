@@ -1,0 +1,18 @@
+/*
+Theme Name:  IBAPAM Movie Theme
+Theme URI:   https://ibapam.in
+Author:      IBAPAM
+Author URI:  https://ibapam.in
+Description: A dark, feature-rich WordPress movie/entertainment theme. Matching design of vagam4u.com.in and ibapam.in. Includes post cards, hero slider, mega-menu, download section, TMDB importer page template, and full responsive layout.
+Version:     1.0.0
+Requires at least: 6.0
+Tested up to: 6.5
+Requires PHP: 8.0
+License:     GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: ibapam
+Tags:        dark, entertainment, movies, responsive, custom-menu, featured-images, sidebar, footer-widgets
+*/
+
+/* This file intentionally contains only theme header metadata.
+   All styles are enqueued from assets/css/main.css via functions.php */
